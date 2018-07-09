@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.Map;
 
 public class DropboxHelper extends AsyncTask<List<String>, Integer, Boolean> {
-    private final String ACCESS_TOKEN = "s7WRjU1-5tAAAAAAAAAAFzJl0lSiomHKqtk2okKxiKCZ3WIKIFgZRfvFNVusv2oT";
+    private final String ACCESS_TOKEN = "XXX";
     private final String PATH = "/FromLivescribe/";
     private final Context ctx;
     @Override
